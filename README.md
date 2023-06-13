@@ -1,8 +1,8 @@
-<h1 align="center">Stalking me I see! Welcome to my page <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Welcome to my profile :)</h1>
 
 <p align="center">
     <i>
-        I'm cratosOT.<br>
+        Hey! I'm cratosOT.<br>
         C++ Student of Over 5 years.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
