@@ -17,8 +17,8 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/cratosOT)
 
 ### Website Development
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/cratosOT)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/cratosOT)
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/cratosOT)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/cratosOT)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/cratosOT)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/cratosOT)
 
