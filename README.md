@@ -5,7 +5,7 @@
         Hey! I'm cratosOT.<br>
         C++ Student of Over 6 Years.<br>
         Full Stack Developer<br>
-    </i><br>
+    </i>
 </p>
 
 ### Languages
