@@ -2,9 +2,9 @@
 
 <p align="center">
     <i>
-        Hey! I'm cratosOT.<br>
-        C++ Student of Over 6 Years.<br>
-        ✨Full Stack Developer✨<br>
+        Hey! I'm Solvement.<br>
+        C++ and Java Student of Over 6 Years.<br>
+        Full Stack Software Developer.<br>
     </i>
 </p>
 
