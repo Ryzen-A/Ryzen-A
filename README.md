@@ -45,7 +45,7 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/cratosOT">
+  <a href="https://github.com/imlikewise">
     <img src="https://komarev.com/ghpvc/?username=cratosOT&color=blue&style=flat)" />
   </a>
 </p>
