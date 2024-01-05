@@ -1,10 +1,11 @@
-<h1 align="center">Welcome to my profile 👋</h1>
+<h1 align="center">Hi! Welcome to my profile!👋</h1>
 
 <p align="center">
     <i>
-        Hey! I'm likewise.<br>
-        C++ Student of Over 6 Years.<br>
-        Full Stack Software Developer.<br>
+        Hello! I am likewise.<br>
+        I am a qualified software engineer.<br>
+        Full stack developer.<br>
+        Over 6 years of experience.<br>
     </i>
 </p>
 
