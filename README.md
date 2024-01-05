@@ -2,7 +2,7 @@
 
 <p align="center">
     <i>
-        Hey! I'm Ryzen.<br>
+        Hey! I'm likewise.<br>
         C++ Student of Over 6 Years.<br>
         Full Stack Software Developer.<br>
     </i>
