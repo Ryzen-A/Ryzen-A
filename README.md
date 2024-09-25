@@ -2,10 +2,10 @@
 
 <p align="center">
     <i>
-        Hello! I am ion.<br>
+        Hello! I am bukky.<br>
         I am a qualified software engineer.<br>
         Full stack developer.<br>
-        Over 6 years of experience.<br>
+        Over 4 years of experience.<br>
     </i>
 </p>
 
